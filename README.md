@@ -22,4 +22,4 @@ java -jar TwiEmo [inputPath] [OutputPath] [separator] [Tweets colonne]
 
 ---------------------------------------------------------------------------------------
 
-Developped by Didier Henry PhD student in computer science at the University of French West Indies
+Developped by Didier Henry PhD student in computer science at the University of French West Indies (Guadeloupe)
